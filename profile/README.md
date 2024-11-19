@@ -12,7 +12,11 @@ Our mission is to empower students with essential skills, mentorship, and opport
 ## Leadership Team
 
 ### Ayaan Hashmi - President  
-<a href="LINK_HERE"><img src="https://cdn.jsdelivr.net/npm/boxicons@2.1.1/dist/svg/bx-logo-link.svg" alt="LinkedIn" style="width: 24px; margin-right: 10px;" /></a>
+<a href="https://github.com/Ayaan-Hashmi" target="_blank">
+    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" width="24" height="24">
+        <path d="M12 0c-6.627 0-12 5.373-12 12s5.373 12 12 12 12-5.373 12-12-5.373-12-12-12zm0 22c-5.523 0-10-4.477-10-10s4.477-10 10-10 10 4.477 10 10-4.477 10-10 10zm-1-15h2v6h-2zm0 8h2v2h-2z"/>
+    </svg>
+</a>
 <a href="LINK_HERE"><img src="https://cdn.jsdelivr.net/npm/boxicons@2.1.1/dist/svg/bxl-github.svg" alt="GitHub" style="width: 24px; margin-right: 10px;" /></a>
 
 ### Medhansh Kapoor - President  
