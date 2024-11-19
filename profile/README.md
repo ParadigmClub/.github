@@ -12,120 +12,39 @@ Our mission is to empower students with essential skills, mentorship, and opport
 ## Leadership Team
 
 ### Ayaan Hashmi - President  
-<div class="social-icons">
-    <a href="https://github.com/Ayaan-Hashmi" target="_blank">
-        <i class="bx bxl-github"></i>
-    </a>
-    <a href="https://www.linkedin.com/in/your-linkedin-profile" target="_blank">
-        <i class="bx bxl-linkedin-square"></i>
-    </a>
-    <a href="https://discord.com/users/951491358500216842" target="_blank">
-        <i class="bx bxl-discord-alt"></i>
-    </a>
-    <a href="mailto:apex.hashmi@gmail.com" target="_blank">
-        <i class="bx bxl-gmail"></i>
-    </a>
-</div>
+<a href="LINK_HERE"><img src="https://cdn.jsdelivr.net/npm/boxicons@2.1.1/dist/svg/bx-logo-link.svg" alt="LinkedIn" style="width: 24px; margin-right: 10px;" /></a>
+<a href="LINK_HERE"><img src="https://cdn.jsdelivr.net/npm/boxicons@2.1.1/dist/svg/bx-logo-github.svg" alt="GitHub" style="width: 24px; margin-right: 10px;" /></a>
 
 ### Medhansh Kapoor - President  
-<div class="social-icons">
-    <a href="LINK_HERE" target="_blank">
-        <i class="bx bxl-github"></i>
-    </a>
-    <a href="LINK_HERE" target="_blank">
-        <i class="bx bxl-linkedin-square"></i>
-    </a>
-</div>
+<a href="LINK_HERE"><img src="https://cdn.jsdelivr.net/npm/boxicons@2.1.1/dist/svg/bx-logo-link.svg" alt="LinkedIn" style="width: 24px; margin-right: 10px;" /></a>
+<a href="LINK_HERE"><img src="https://cdn.jsdelivr.net/npm/boxicons@2.1.1/dist/svg/bx-logo-twitter.svg" alt="Twitter" style="width: 24px; margin-right: 10px;" /></a>
 
 ### Vansh Bhardwaj - Vice President  
-<div class="social-icons">
-    <a href="LINK_HERE" target="_blank">
-        <i class="bx bxl-github"></i>
-    </a>
-    <a href="LINK_HERE" target="_blank">
-        <i class="bx bxl-linkedin-square"></i>
-    </a>
-</div>
+<a href="LINK_HERE"><img src="https://cdn.jsdelivr.net/npm/boxicons@2.1.1/dist/svg/bx-logo-link.svg" alt="LinkedIn" style="width: 24px; margin-right: 10px;" /></a>
 
 ### Ehaan Raza Khan - Editing Head  
-<div class="social-icons">
-    <a href="LINK_HERE" target="_blank">
-        <i class="bx bxl-github"></i>
-    </a>
-    <a href="LINK_HERE" target="_blank">
-        <i class="bx bxl-linkedin-square"></i>
-    </a>
-</div>
+<a href="LINK_HERE"><img src="https://cdn.jsdelivr.net/npm/boxicons@2.1.1/dist/svg/bx-logo-link.svg" alt="LinkedIn" style="width: 24px; margin-right: 10px;" /></a>
 
 ### Prathamesh Prabhakar - Development Head  
-<div class="social-icons">
-    <a href="LINK_HERE" target="_blank">
-        <i class="bx bxl-github"></i>
-    </a>
-    <a href="LINK_HERE" target="_blank">
-        <i class="bx bxl-linkedin-square"></i>
-    </a>
-</div>
+<a href="LINK_HERE"><img src="https://cdn.jsdelivr.net/npm/boxicons@2.1.1/dist/svg/bx-logo-link.svg" alt="LinkedIn" style="width: 24px; margin-right: 10px;" /></a>
 
 ### Muhammad Abdullah Viqar - Graphics Head  
-<div class="social-icons">
-    <a href="LINK_HERE" target="_blank">
-        <i class="bx bxl-github"></i>
-    </a>
-    <a href="LINK_HERE" target="_blank">
-        <i class="bx bxl-linkedin-square"></i>
-    </a>
-</div>
+<a href="LINK_HERE"><img src="https://cdn.jsdelivr.net/npm/boxicons@2.1.1/dist/svg/bx-logo-link.svg" alt="LinkedIn" style="width: 24px; margin-right: 10px;" /></a>
 
 ### Samarth Goyal - Cyber Security Head  
-<div class="social-icons">
-    <a href="LINK_HERE" target="_blank">
-        <i class="bx bxl-github"></i>
-    </a>
-    <a href="LINK_HERE" target="_blank">
-        <i class="bx bxl-linkedin-square"></i>
-    </a>
-</div>
+<a href="LINK_HERE"><img src="https://cdn.jsdelivr.net/npm/boxicons@2.1.1/dist/svg/bx-logo-link.svg" alt="LinkedIn" style="width: 24px; margin-right: 10px;" /></a>
 
 ### Inesh Agarwal - AI Head  
-<div class="social-icons">
-    <a href="LINK_HERE" target="_blank">
-        <i class="bx bxl-github"></i>
-    </a>
-    <a href="LINK_HERE" target="_blank">
-        <i class="bx bxl-linkedin-square"></i>
-    </a>
-</div>
+<a href="LINK_HERE"><img src="https://cdn.jsdelivr.net/npm/boxicons@2.1.1/dist/svg/bx-logo-link.svg" alt="LinkedIn" style="width: 24px; margin-right: 10px;" /></a>
 
 ### Aaradhya Chaturvedi - Gaming Head  
-<div class="social-icons">
-    <a href="LINK_HERE" target="_blank">
-        <i class="bx bxl-github"></i>
-    </a>
-    <a href="LINK_HERE" target="_blank">
-        <i class="bx bxl-linkedin-square"></i>
-    </a>
-</div>
+<a href="LINK_HERE"><img src="https://cdn.jsdelivr.net/npm/boxicons@2.1.1/dist/svg/bx-logo-link.svg" alt="LinkedIn" style="width: 24px; margin-right: 10px;" /></a>
 
 ### Kunsh Khanna - Photography Head  
-<div class="social-icons">
-    <a href="LINK_HERE" target="_blank">
-        <i class="bx bxl-github"></i>
-    </a>
-    <a href="LINK_HERE" target="_blank">
-        <i class="bx bxl-linkedin-square"></i>
-    </a>
-</div>
+<a href="LINK_HERE"><img src="https://cdn.jsdelivr.net/npm/boxicons@2.1.1/dist/svg/bx-logo-link.svg" alt="LinkedIn" style="width: 24px; margin-right: 10px;" /></a>
 
 ### Harshita Pal - Junior Mentor  
-<div class="social-icons">
-    <a href="LINK_HERE" target="_blank">
-        <i class="bx bxl-github"></i>
-    </a>
-    <a href="LINK_HERE" target="_blank">
-        <i class="bx bxl-linkedin-square"></i>
-    </a>
-</div>
+<a href="LINK_HERE"><img src="https://cdn.jsdelivr.net/npm/boxicons@2.1.1/dist/svg/bx-logo-link.svg" alt="LinkedIn" style="width: 24px; margin-right: 10px;" /></a>
 
 ---
 
