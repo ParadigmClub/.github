@@ -13,7 +13,7 @@ Our mission is to empower students with essential skills, mentorship, and opport
 
 ### Ayaan Hashmi - President  
 <a href="LINK_HERE"><img src="https://cdn.jsdelivr.net/npm/boxicons@2.1.1/dist/svg/bx-logo-link.svg" alt="LinkedIn" style="width: 24px; margin-right: 10px;" /></a>
-<a href="LINK_HERE"><img src="https://cdn.jsdelivr.net/npm/boxicons@2.1.1/dist/svg/bx-logo-github.svg" alt="GitHub" style="width: 24px; margin-right: 10px;" /></a>
+<a href="LINK_HERE"><img src="https://cdn.jsdelivr.net/npm/boxicons@2.1.1/dist/svg/bxl-github.svg" alt="GitHub" style="width: 24px; margin-right: 10px;" /></a>
 
 ### Medhansh Kapoor - President  
 <a href="LINK_HERE"><img src="https://cdn.jsdelivr.net/npm/boxicons@2.1.1/dist/svg/bx-logo-link.svg" alt="LinkedIn" style="width: 24px; margin-right: 10px;" /></a>
