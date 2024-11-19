@@ -12,12 +12,20 @@ Our mission is to empower students with essential skills, mentorship, and opport
 ## Leadership Team
 
 ### Ayaan Hashmi - President  
-<a href="https://github.com/Ayaan-Hashmi" target="_blank">
-    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" width="24" height="24">
-        <path d="M12 0c-6.627 0-12 5.373-12 12s5.373 12 12 12 12-5.373 12-12-5.373-12-12-12zm0 22c-5.523 0-10-4.477-10-10s4.477-10 10-10 10 4.477 10 10-4.477 10-10 10zm-1-15h2v6h-2zm0 8h2v2h-2z"/>
-    </svg>
-</a>
-<a href="LINK_HERE"><img src="https://cdn.jsdelivr.net/npm/boxicons@2.1.1/dist/svg/bxl-github.svg" alt="GitHub" style="width: 24px; margin-right: 10px;" /></a>
+<div class="social-icons">
+    <a href="https://github.com/Ayaan-Hashmi" target="_blank">
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" width="24" height="24">
+            <path d="M12 0c-6.627 0-12 5.373-12 12s5.373 12 12 12 12-5.373 12-12-5.373-12-12-12zm0 22c-5.523 0-10-4.477-10-10s4.477-10 10-10 10 4.477 10 10-4.477 10-10 10zm-1-15h2v6h-2zm0 8h2v2h-2z"/>
+        </svg>
+    </a>
+    <a href="https://www.linkedin.com/in/your-linkedin-profile" target="_blank">
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" width="24" height="24">
+            <path d="M4 3c0-1.104.896-2 2-2h12c1.104 0 2 .896 2 2v18c0 1.104-.896 2-2 2h-12c-1.104 0-2-.896-2-2v-18zm2 0v18h12v-18h-12zm4 15h2v-6h-2v6zm1-8.5c.691 0 1.25-.559 1.25-1.25s-.559-1.25-1.25-1.25c-.691 0-1.25.559-1.25 1.25s.559 1.25 1.25 1.25zm-1 6h2v-3h-2v3zm7.25-6.25c-.691 0-1.25.559-1.25 1.25s.559 1.25 1.25 1.25c.691 0 1.25-.559 1.25-1.25s-.559-1.25-1.25-1.25zm0 4.5c-.691 0-1.25.559-1.25 1.25v3h2v-3c0-.691-.559-1.25-1.25-1.25z"/>
+        </svg>
+    </a>
+    <a href="https://discord.com/users/951491358500216842" target="_blank">
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" width="24" height="24">
+            <path d="M18.27 12.01c.06-.27.1-.55.1-.84 0-.29-.04-.57-.1-.84-1.72-.15-3.15-1.03-4.21-2.1-.53.37-1.13.69-1.77.97-1.09-.78-2.42-1.26-3.83-1.26s-2
 
 ### Medhansh Kapoor - President  
 <a href="LINK_HERE"><img src="https://cdn.jsdelivr.net/npm/boxicons@2.1.1/dist/svg/bx-logo-link.svg" alt="LinkedIn" style="width: 24px; margin-right: 10px;" /></a>
